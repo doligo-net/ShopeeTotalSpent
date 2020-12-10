@@ -34,7 +34,7 @@ function getStatistics() {
         console.log("%cTổng sản phẩm đã đặt: " + "%c" + moneyFormat(totalItems), "font-size: 30px;","font-size: 30px; color:red");
 				console.log("%cTổng chi tiêu: "+"%c"+moneyFormat(totalSpent)+"đ", "font-size: 30px;","font-size: 30px; color:red");
 				console.log("%cTổng tiền ship: "+"%c"+moneyFormat(totalShippingSpent)+"đ", "font-size: 30px;","font-size: 30px; color:red");
-        console.log("%cDoligo.net "+"%c"+moneyFormat(totalShippingSpent)+"đ", "font-size: 30px;","font-size: 30px; color:red");
+        console.log("%c"+"%cDoligo.net", "font-size: 30px;","font-size: 30px; color:red");
 			}
 		}
 	};
