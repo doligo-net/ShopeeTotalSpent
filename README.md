@@ -13,4 +13,4 @@ Sau 30p thì em nhận ra 25tr của mình đã bay đi trong gió bay về Shop
  5. List item
  6. Gõ "getStatistics()" và ngồi chờ...
 # Hình ảnh
-![](https://github.com/mybabysexy/ShopeeTotalSpent/blob/master/image.jpg)
+![](https://raw.githubusercontent.com/doligo-net/ShopeeTotalSpent/main/image.jpg)
